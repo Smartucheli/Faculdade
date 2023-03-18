@@ -1,0 +1,32 @@
+C:\Users\Dell\Documents\teste\ex001\bin\Debug\net5.0\ex001.exe
+C:\Users\Dell\Documents\teste\ex001\bin\Debug\net5.0\ex001.deps.json
+C:\Users\Dell\Documents\teste\ex001\bin\Debug\net5.0\ex001.runtimeconfig.json
+C:\Users\Dell\Documents\teste\ex001\bin\Debug\net5.0\ex001.runtimeconfig.dev.json
+C:\Users\Dell\Documents\teste\ex001\bin\Debug\net5.0\ex001.dll
+C:\Users\Dell\Documents\teste\ex001\bin\Debug\net5.0\ref\ex001.dll
+C:\Users\Dell\Documents\teste\ex001\bin\Debug\net5.0\ex001.pdb
+C:\Users\Dell\Documents\teste\ex001\obj\Debug\net5.0\ex001.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\teste\ex001\obj\Debug\net5.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\teste\ex001\obj\Debug\net5.0\ex001.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\teste\ex001\obj\Debug\net5.0\ex001.AssemblyInfo.cs
+C:\Users\Dell\Documents\teste\ex001\obj\Debug\net5.0\ex001.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\teste\ex001\obj\Debug\net5.0\ex001.dll
+C:\Users\Dell\Documents\teste\ex001\obj\Debug\net5.0\ref\ex001.dll
+C:\Users\Dell\Documents\teste\ex001\obj\Debug\net5.0\ex001.pdb
+C:\Users\Dell\Documents\teste\ex001\obj\Debug\net5.0\ex001.genruntimeconfig.cache
+C:\Users\Dell\Documents\roteiro lab2\ex001\bin\Debug\net5.0\ex001.exe
+C:\Users\Dell\Documents\roteiro lab2\ex001\bin\Debug\net5.0\ex001.deps.json
+C:\Users\Dell\Documents\roteiro lab2\ex001\bin\Debug\net5.0\ex001.runtimeconfig.json
+C:\Users\Dell\Documents\roteiro lab2\ex001\bin\Debug\net5.0\ex001.runtimeconfig.dev.json
+C:\Users\Dell\Documents\roteiro lab2\ex001\bin\Debug\net5.0\ex001.dll
+C:\Users\Dell\Documents\roteiro lab2\ex001\bin\Debug\net5.0\ref\ex001.dll
+C:\Users\Dell\Documents\roteiro lab2\ex001\bin\Debug\net5.0\ex001.pdb
+C:\Users\Dell\Documents\roteiro lab2\ex001\obj\Debug\net5.0\ex001.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\roteiro lab2\ex001\obj\Debug\net5.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\roteiro lab2\ex001\obj\Debug\net5.0\ex001.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\roteiro lab2\ex001\obj\Debug\net5.0\ex001.AssemblyInfo.cs
+C:\Users\Dell\Documents\roteiro lab2\ex001\obj\Debug\net5.0\ex001.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\roteiro lab2\ex001\obj\Debug\net5.0\ex001.dll
+C:\Users\Dell\Documents\roteiro lab2\ex001\obj\Debug\net5.0\ref\ex001.dll
+C:\Users\Dell\Documents\roteiro lab2\ex001\obj\Debug\net5.0\ex001.pdb
+C:\Users\Dell\Documents\roteiro lab2\ex001\obj\Debug\net5.0\ex001.genruntimeconfig.cache

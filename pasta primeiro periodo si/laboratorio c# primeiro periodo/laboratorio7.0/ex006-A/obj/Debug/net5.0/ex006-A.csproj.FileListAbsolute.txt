@@ -1,0 +1,16 @@
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\bin\Debug\net5.0\ex006-A.exe
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\bin\Debug\net5.0\ex006-A.deps.json
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\bin\Debug\net5.0\ex006-A.runtimeconfig.json
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\bin\Debug\net5.0\ex006-A.runtimeconfig.dev.json
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\bin\Debug\net5.0\ex006-A.dll
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\bin\Debug\net5.0\ref\ex006-A.dll
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\bin\Debug\net5.0\ex006-A.pdb
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\obj\Debug\net5.0\ex006-A.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\obj\Debug\net5.0\ex006-A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\obj\Debug\net5.0\ex006-A.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\obj\Debug\net5.0\ex006-A.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\obj\Debug\net5.0\ex006-A.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\obj\Debug\net5.0\ex006-A.dll
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\obj\Debug\net5.0\ref\ex006-A.dll
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\obj\Debug\net5.0\ex006-A.pdb
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio7.0\ex006-A\obj\Debug\net5.0\ex006-A.genruntimeconfig.cache

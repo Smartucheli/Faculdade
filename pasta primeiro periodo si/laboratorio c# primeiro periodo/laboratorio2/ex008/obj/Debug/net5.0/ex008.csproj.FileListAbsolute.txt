@@ -1,0 +1,16 @@
+C:\Users\Dell\Documents\roteiro lab2\ex008\bin\Debug\net5.0\ex008.exe
+C:\Users\Dell\Documents\roteiro lab2\ex008\bin\Debug\net5.0\ex008.deps.json
+C:\Users\Dell\Documents\roteiro lab2\ex008\bin\Debug\net5.0\ex008.runtimeconfig.json
+C:\Users\Dell\Documents\roteiro lab2\ex008\bin\Debug\net5.0\ex008.runtimeconfig.dev.json
+C:\Users\Dell\Documents\roteiro lab2\ex008\bin\Debug\net5.0\ex008.dll
+C:\Users\Dell\Documents\roteiro lab2\ex008\bin\Debug\net5.0\ref\ex008.dll
+C:\Users\Dell\Documents\roteiro lab2\ex008\bin\Debug\net5.0\ex008.pdb
+C:\Users\Dell\Documents\roteiro lab2\ex008\obj\Debug\net5.0\ex008.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\roteiro lab2\ex008\obj\Debug\net5.0\ex008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\roteiro lab2\ex008\obj\Debug\net5.0\ex008.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\roteiro lab2\ex008\obj\Debug\net5.0\ex008.AssemblyInfo.cs
+C:\Users\Dell\Documents\roteiro lab2\ex008\obj\Debug\net5.0\ex008.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\roteiro lab2\ex008\obj\Debug\net5.0\ex008.dll
+C:\Users\Dell\Documents\roteiro lab2\ex008\obj\Debug\net5.0\ref\ex008.dll
+C:\Users\Dell\Documents\roteiro lab2\ex008\obj\Debug\net5.0\ex008.pdb
+C:\Users\Dell\Documents\roteiro lab2\ex008\obj\Debug\net5.0\ex008.genruntimeconfig.cache

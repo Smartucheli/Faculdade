@@ -1,0 +1,32 @@
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.exe
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.deps.json
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.runtimeconfig.dev.json
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.dll
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\bin\Debug\net5.0\ref\exercicio9.dll
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.pdb
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.dll
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\obj\Debug\net5.0\ref\exercicio9.dll
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.pdb
+C:\Users\savio\OneDrive\Documentos\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.genruntimeconfig.cache
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.exe
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.deps.json
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.runtimeconfig.json
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.runtimeconfig.dev.json
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.dll
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\bin\Debug\net5.0\ref\exercicio9.dll
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\bin\Debug\net5.0\exercicio9.pdb
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.dll
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\obj\Debug\net5.0\ref\exercicio9.dll
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.pdb
+C:\Users\savio\OneDrive\Desktop\laboratorios c#\laboratorio3\exercicio9\obj\Debug\net5.0\exercicio9.genruntimeconfig.cache

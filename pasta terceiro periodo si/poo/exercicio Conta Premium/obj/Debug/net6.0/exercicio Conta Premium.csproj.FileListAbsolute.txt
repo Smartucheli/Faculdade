@@ -1,0 +1,15 @@
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\bin\Debug\net6.0\exercicio Conta Premium.exe
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\bin\Debug\net6.0\exercicio Conta Premium.deps.json
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\bin\Debug\net6.0\exercicio Conta Premium.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\bin\Debug\net6.0\exercicio Conta Premium.dll
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\bin\Debug\net6.0\exercicio Conta Premium.pdb
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\obj\Debug\net6.0\exercicio Conta Premium.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\obj\Debug\net6.0\exercicio Conta Premium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\obj\Debug\net6.0\exercicio Conta Premium.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\obj\Debug\net6.0\exercicio Conta Premium.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\obj\Debug\net6.0\exercicio Conta Premium.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\obj\Debug\net6.0\exercicio Conta Premium.dll
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\obj\Debug\net6.0\refint\exercicio Conta Premium.dll
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\obj\Debug\net6.0\exercicio Conta Premium.pdb
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\obj\Debug\net6.0\exercicio Conta Premium.genruntimeconfig.cache
+C:\Users\savio\OneDrive\Documentos\pasta terceiro periodo si\poo\exercicio Conta Premium\obj\Debug\net6.0\ref\exercicio Conta Premium.dll

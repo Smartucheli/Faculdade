@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "savio",
+      "nome": "savio1",
+      "senha": "123456",
+      "ConfirmSenha": "123456"
+    },
+    {
+      "nome": "savio1",
+      "usuario": "savio",
+      "senha": "123456",
+      "ConfirmSenha": "123456",
+      "id": 2
+    },
+    {
+      "nome": "savio1",
+      "usuario": "savio1",
+      "senha": "123456",
+      "ConfirmSenha": "123456",
+      "id": 3
+    },
+    {
+      "nome": "savio martucheli",
+      "usuario": "savio",
+      "senha": "123456",
+      "ConfirmSenha": "123456",
+      "id": 4
+    }
+  ]
+}

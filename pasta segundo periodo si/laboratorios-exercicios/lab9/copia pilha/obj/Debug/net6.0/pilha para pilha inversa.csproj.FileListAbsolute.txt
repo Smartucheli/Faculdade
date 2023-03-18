@@ -1,0 +1,15 @@
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\bin\Debug\net6.0\pilha para pilha inversa.exe
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\bin\Debug\net6.0\pilha para pilha inversa.deps.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\bin\Debug\net6.0\pilha para pilha inversa.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\bin\Debug\net6.0\pilha para pilha inversa.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\bin\Debug\net6.0\pilha para pilha inversa.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\obj\Debug\net6.0\pilha para pilha inversa.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\obj\Debug\net6.0\pilha para pilha inversa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\obj\Debug\net6.0\pilha para pilha inversa.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\obj\Debug\net6.0\pilha para pilha inversa.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\obj\Debug\net6.0\pilha para pilha inversa.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\obj\Debug\net6.0\pilha para pilha inversa.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\obj\Debug\net6.0\refint\pilha para pilha inversa.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\obj\Debug\net6.0\pilha para pilha inversa.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\obj\Debug\net6.0\pilha para pilha inversa.genruntimeconfig.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab9\copia pilha\obj\Debug\net6.0\ref\pilha para pilha inversa.dll

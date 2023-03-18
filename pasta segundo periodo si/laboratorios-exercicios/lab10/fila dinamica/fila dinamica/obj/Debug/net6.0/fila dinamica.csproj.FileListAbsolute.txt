@@ -1,0 +1,5 @@
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\fila dinamica\fila dinamica\obj\Debug\net6.0\fila dinamica.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\fila dinamica\fila dinamica\obj\Debug\net6.0\fila dinamica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\fila dinamica\fila dinamica\obj\Debug\net6.0\fila dinamica.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\fila dinamica\fila dinamica\obj\Debug\net6.0\fila dinamica.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\fila dinamica\fila dinamica\obj\Debug\net6.0\fila dinamica.csproj.CoreCompileInputs.cache

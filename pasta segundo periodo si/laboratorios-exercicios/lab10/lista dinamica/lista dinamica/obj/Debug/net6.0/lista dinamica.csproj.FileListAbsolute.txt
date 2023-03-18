@@ -1,0 +1,15 @@
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\bin\Debug\net6.0\lista dinamica.exe
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\bin\Debug\net6.0\lista dinamica.deps.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\bin\Debug\net6.0\lista dinamica.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\bin\Debug\net6.0\lista dinamica.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\bin\Debug\net6.0\lista dinamica.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\obj\Debug\net6.0\lista dinamica.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\obj\Debug\net6.0\lista dinamica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\obj\Debug\net6.0\lista dinamica.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\obj\Debug\net6.0\lista dinamica.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\obj\Debug\net6.0\lista dinamica.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\obj\Debug\net6.0\lista dinamica.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\obj\Debug\net6.0\refint\lista dinamica.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\obj\Debug\net6.0\lista dinamica.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\obj\Debug\net6.0\lista dinamica.genruntimeconfig.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab10\lista dinamica\lista dinamica\obj\Debug\net6.0\ref\lista dinamica.dll

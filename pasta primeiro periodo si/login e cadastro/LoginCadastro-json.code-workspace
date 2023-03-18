@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\LoginCadastro-json"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "login e cadastro"
+	}
+}

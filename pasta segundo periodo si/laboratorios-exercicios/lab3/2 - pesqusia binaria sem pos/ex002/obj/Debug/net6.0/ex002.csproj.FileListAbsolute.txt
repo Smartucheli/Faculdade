@@ -1,0 +1,30 @@
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\obj\Debug\net6.0\ex002.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\obj\Debug\net6.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\obj\Debug\net6.0\ex002.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\obj\Debug\net6.0\ex002.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\obj\Debug\net6.0\ex002.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\bin\Debug\net6.0\ex002.exe
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\bin\Debug\net6.0\ex002.deps.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\bin\Debug\net6.0\ex002.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\bin\Debug\net6.0\ex002.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\bin\Debug\net6.0\ex002.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\obj\Debug\net6.0\ex002.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\obj\Debug\net6.0\refint\ex002.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\obj\Debug\net6.0\ex002.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\obj\Debug\net6.0\ex002.genruntimeconfig.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\ex002\ex002\obj\Debug\net6.0\ref\ex002.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\bin\Debug\net6.0\ex002.exe
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\bin\Debug\net6.0\ex002.deps.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\bin\Debug\net6.0\ex002.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\bin\Debug\net6.0\ex002.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\bin\Debug\net6.0\ex002.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\obj\Debug\net6.0\ex002.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\obj\Debug\net6.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\obj\Debug\net6.0\ex002.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\obj\Debug\net6.0\ex002.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\obj\Debug\net6.0\ex002.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\obj\Debug\net6.0\ex002.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\obj\Debug\net6.0\refint\ex002.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\obj\Debug\net6.0\ex002.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\obj\Debug\net6.0\ex002.genruntimeconfig.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab3\2 - pesqusia binaria sem pos\ex002\obj\Debug\net6.0\ref\ex002.dll

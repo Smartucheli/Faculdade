@@ -1,0 +1,30 @@
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\bin\Debug\net6.0\questão03.exe
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\bin\Debug\net6.0\questão03.deps.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\bin\Debug\net6.0\questão03.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\bin\Debug\net6.0\questão03.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\bin\Debug\net6.0\questão03.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\obj\Debug\net6.0\questão03.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\obj\Debug\net6.0\questão03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\obj\Debug\net6.0\questão03.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\obj\Debug\net6.0\questão03.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\obj\Debug\net6.0\questão03.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\obj\Debug\net6.0\questão03.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\obj\Debug\net6.0\refint\questão03.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\obj\Debug\net6.0\questão03.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\obj\Debug\net6.0\questão03.genruntimeconfig.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\prova_refeita lab7\questão03\obj\Debug\net6.0\ref\questão03.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\bin\Debug\net6.0\questão03.exe
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\bin\Debug\net6.0\questão03.deps.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\bin\Debug\net6.0\questão03.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\bin\Debug\net6.0\questão03.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\bin\Debug\net6.0\questão03.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\obj\Debug\net6.0\questão03.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\obj\Debug\net6.0\questão03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\obj\Debug\net6.0\questão03.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\obj\Debug\net6.0\questão03.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\obj\Debug\net6.0\questão03.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\obj\Debug\net6.0\questão03.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\obj\Debug\net6.0\refint\questão03.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\obj\Debug\net6.0\questão03.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\obj\Debug\net6.0\questão03.genruntimeconfig.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab7\questão03\obj\Debug\net6.0\ref\questão03.dll

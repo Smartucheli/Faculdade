@@ -1,0 +1,16 @@
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\bin\Debug\net5.0\exercicio10.exe
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\bin\Debug\net5.0\exercicio10.deps.json
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\bin\Debug\net5.0\exercicio10.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\bin\Debug\net5.0\exercicio10.runtimeconfig.dev.json
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\bin\Debug\net5.0\exercicio10.dll
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\bin\Debug\net5.0\ref\exercicio10.dll
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\bin\Debug\net5.0\exercicio10.pdb
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\obj\Debug\net5.0\exercicio10.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\obj\Debug\net5.0\exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\obj\Debug\net5.0\exercicio10.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\obj\Debug\net5.0\exercicio10.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\obj\Debug\net5.0\exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\obj\Debug\net5.0\exercicio10.dll
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\obj\Debug\net5.0\ref\exercicio10.dll
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\obj\Debug\net5.0\exercicio10.pdb
+C:\Users\savio\OneDrive\Documentos\exercicios c#\exercicio valendo  nota 1\exercicio10\obj\Debug\net5.0\exercicio10.genruntimeconfig.cache

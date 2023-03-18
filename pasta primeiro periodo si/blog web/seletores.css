@@ -1,0 +1,34 @@
+/* elemtento */
+p {
+    background-color: yellow;
+    font-family: Arial;
+}
+/* id */
+#menu-principal {
+    background-color: lightblue;
+}
+
+/* classe */
+.caixa-categoria {
+    background-color: lightgray;
+}
+
+/* atributo */
+[src] {
+    float: right;
+}
+
+/*pseudo classe */
+:hover {
+    color: red
+}
+
+/* pseudo elemento */
+p :: ::first-letter {
+    font-size: xx-large
+}
+
+/* seletor universal */
+* {
+    margin = 0 
+}

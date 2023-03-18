@@ -1,0 +1,17 @@
+body {
+    color: rgb(250, 0, 0);  
+}
+
+h1 {
+    font-size: 0,4cm;
+}
+
+p {
+    font-size: 0,3;
+    color: navy;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}

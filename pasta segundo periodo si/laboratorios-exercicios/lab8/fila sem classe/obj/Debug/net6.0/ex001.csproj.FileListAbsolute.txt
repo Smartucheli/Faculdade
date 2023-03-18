@@ -1,0 +1,30 @@
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\bin\Debug\net6.0\ex001.exe
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\bin\Debug\net6.0\ex001.deps.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\bin\Debug\net6.0\ex001.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\bin\Debug\net6.0\ex001.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\bin\Debug\net6.0\ex001.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\obj\Debug\net6.0\ex001.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\obj\Debug\net6.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\obj\Debug\net6.0\ex001.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\obj\Debug\net6.0\ex001.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\obj\Debug\net6.0\ex001.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\obj\Debug\net6.0\ex001.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\obj\Debug\net6.0\refint\ex001.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\obj\Debug\net6.0\ex001.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\obj\Debug\net6.0\ex001.genruntimeconfig.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\Lab8\ex001\obj\Debug\net6.0\ref\ex001.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\bin\Debug\net6.0\ex001.exe
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\bin\Debug\net6.0\ex001.deps.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\bin\Debug\net6.0\ex001.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\bin\Debug\net6.0\ex001.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\bin\Debug\net6.0\ex001.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\obj\Debug\net6.0\ex001.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\obj\Debug\net6.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\obj\Debug\net6.0\ex001.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\obj\Debug\net6.0\ex001.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\obj\Debug\net6.0\ex001.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\obj\Debug\net6.0\ex001.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\obj\Debug\net6.0\refint\ex001.dll
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\obj\Debug\net6.0\ex001.pdb
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\obj\Debug\net6.0\ex001.genruntimeconfig.cache
+C:\Users\savio\OneDrive\Documentos\pasta segundo periodo si\laboratorios-exercicios\lab8\fila sem classe\obj\Debug\net6.0\ref\ex001.dll

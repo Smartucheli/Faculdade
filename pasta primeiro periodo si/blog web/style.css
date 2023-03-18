@@ -1,0 +1,11 @@
+p, ul {
+    background-color: yellow;
+}
+
+main p {
+    color: blue
+}
+
+ul > li {
+    color: green
+}

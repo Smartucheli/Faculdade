@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JgXO8/WRszA2LLNUuzIKcXuHE/KecsrLQQkSUBXfQ1nD9B/vPV33fCAhzIRiYEE22MznrIc+rZK84lwEgPytCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\savio\\OneDrive\\Documentos\\pasta segundo periodo si\\laboratorios-exercicios\\lab1.0\\ex004\\ex004.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\savio\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

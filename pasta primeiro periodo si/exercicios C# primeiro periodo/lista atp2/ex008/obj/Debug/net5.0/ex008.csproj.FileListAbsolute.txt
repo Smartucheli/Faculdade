@@ -1,0 +1,16 @@
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\bin\Debug\net5.0\ex008.exe
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\bin\Debug\net5.0\ex008.deps.json
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\bin\Debug\net5.0\ex008.runtimeconfig.json
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\bin\Debug\net5.0\ex008.runtimeconfig.dev.json
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\bin\Debug\net5.0\ex008.dll
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\bin\Debug\net5.0\ref\ex008.dll
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\bin\Debug\net5.0\ex008.pdb
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\obj\Debug\net5.0\ex008.csproj.AssemblyReference.cache
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\obj\Debug\net5.0\ex008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\obj\Debug\net5.0\ex008.AssemblyInfoInputs.cache
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\obj\Debug\net5.0\ex008.AssemblyInfo.cs
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\obj\Debug\net5.0\ex008.csproj.CoreCompileInputs.cache
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\obj\Debug\net5.0\ex008.dll
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\obj\Debug\net5.0\ref\ex008.dll
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\obj\Debug\net5.0\ex008.pdb
+C:\Users\savio\OneDrive\Documentos\exercicios c#\lista atp2\ex008\obj\Debug\net5.0\ex008.genruntimeconfig.cache
